@@ -13,4 +13,4 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-I will edit this later pls work
+I will edit this pls work
